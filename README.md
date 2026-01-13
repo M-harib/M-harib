@@ -1,4 +1,4 @@
- ## Hi there 👋
+Hi there 👋 I'm Muhammad Harib Chaudhry
 
 <!--
 **M-harib/M-harib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi there 👋 I'm Muhammad Harib Chaudhry
-
-![Profile Views](https://komarev.com/ghpvc/?username=M-harib&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/M-harib?label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/M-harib?label=Stars&style=flat-square)
 
 🚀 **Computer Science Undergraduate | AI & Software Engineer | Startup Co-Founder**
 
