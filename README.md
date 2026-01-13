@@ -15,126 +15,112 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I'm Muhammad Harib Chaudhry
+# Hi there 👋 I'm Muhammad Harib Chaudhry
 
-🚀 Computer Science Undergraduate | AI & Software Engineer | Startup Co-Founder
+![Profile Views](https://komarev.com/ghpvc/?username=M-harib&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/M-harib?label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/M-harib?label=Stars&style=flat-square)
 
-I'm a Computer Science student at York University (Toronto) with a strong passion for AI, backend systems, and full‑stack development. I enjoy building scalable, user‑focused products—from production‑grade APIs to interactive web apps—and I’m especially interested in applying AI to real‑world problems in education, wellness, and mobility.
+🚀 **Computer Science Undergraduate | AI & Software Engineer | Startup Co-Founder**
 
-🎓 Education
+I’m a **Computer Science student at York University (Toronto)** with hands-on experience building **production-grade backend systems, AI-powered applications, and full-stack products**. I enjoy turning complex problems into scalable, user-focused solutions—especially in **AI, education, wellness, and mobility tech**.
 
-York University — Bachelor of Science in Computer Science
-📍 Toronto, ON | Sep 2024 – Jun 2028
+---
 
-CGPA: 3.8 / 4.0
+## 🎓 Education
+**York University** — *Bachelor of Science in Computer Science*  
+📍 Toronto, ON | *Sep 2024 – Jun 2028*
 
-EECS CGPA: 4.0 / 4.0
+- **CGPA:** 3.8 / 4.0  
+- **EECS CGPA:** 4.0 / 4.0  
+- **Dean’s Honour Roll**  
+- **Scholarships:** $7.5k CAD Entrance + $2.5k CAD Continuing (Academic Excellence)
 
-Member of Dean’s Honour Roll
+---
 
-Scholarships: $7.5k CAD Entrance + $2.5k CAD Continuing (Academic Excellence)
+## 💼 Experience
 
-💼 Experience
-🧠 AI & Software Engineer Intern — Pitstop
+### 🧠 AI & Software Engineer Intern — **Pitstop**
+*Jan 2026 – Present*
+- Built scalable **REST APIs** and backend **microservices** using **Python & Node.js** to integrate vehicle telematics and third-party data into production systems.
+- Designed **ETL pipelines** to preprocess and normalize large-scale datasets for machine learning analytics.
+- Collaborated with frontend, backend, and UI/UX teams to deliver new customer-facing features.
+- Automated deployments with **Docker & CI/CD**, monitored services on **AWS**, and maintained **unit & integration tests**.
 
-Jan 2026 – Present
+### 🚀 Co-Founder & CEO — **Studia** (AI-Powered EdTech & Wellness Startup)
+*Oct 2025 – Present*
+- Co-founding an early-stage AI platform focused on adaptive studying and student wellness.
+- Architecting backend services with **FastAPI** and **PostgreSQL**.
+- Building an interactive **Next.js** frontend with **Tailwind CSS** and 3D visuals.
+- Defining product vision, technical roadmap, and MVP execution strategy.
 
-Developed scalable REST APIs and backend microservices in Python & Node.js for vehicle telematics and third‑party data ingestion.
+### 🤝 Mentor — **Best Lassonde, York University**
+*Oct 2025 – Present*
+- Mentored student teams on idea validation, technical feasibility, and execution.
+- Provided regular technical feedback and supported rapid iteration.
+- Helped guide a team to **win UNHack 2025**.
 
-Built ETL pipelines to preprocess and normalize large telematics datasets for ML analytics.
+---
 
-Collaborated cross‑functionally (frontend, backend, UI/UX) to ship new customer‑facing features.
+## 🛠️ Featured Projects
 
-Automated deployments with Docker & CI/CD, monitored production systems on AWS, and maintained unit & integration tests.
+### 🌱 **MoodSpace** — Mental Health Check-In Platform  
+*React · Spring Boot · JWT · MySQL*  
+🔗 [GitHub](https://github.com/M-harib/MoodSpace) | 🌐 [Live Demo](https://mood5pace.netlify.app)
 
-🚀 Co‑Founder & CEO — Studia (AI‑Powered Wellness & EdTech Startup)
+- Built a full-stack mental health platform in a **2-day hackathon** with mood tracking, journaling, peer support, and analytics dashboards.
+- Developed a secure **Spring Boot backend** with **JWT authentication**, RBAC, and RESTful APIs.
 
-Oct 2025 – Present
+---
 
-Co‑founding an early‑stage AI platform focused on adaptive studying and student wellness.
+### ✅ **TaskFlow** — Full-Stack Productivity App  
+*Flask · React · PostgreSQL · JWT · Chart.js*  
+🔗 [GitHub](https://github.com/M-harib/TaskFlow) | 🌐 [Live Demo](https://taskflow-nu-two.vercel.app)
 
-Designing and building backend services with FastAPI and PostgreSQL.
+- Designed a secure **Flask REST API** with JWT auth, bcrypt password hashing, and CORS.
+- Built a modern React frontend with **dark mode**, advanced filtering, and analytics dashboards.
 
-Developing an interactive Next.js frontend with Tailwind CSS and 3D visuals.
+---
 
-Defining product vision, technical roadmap, and MVP strategy.
+### 🤖 **ResumAI** — AI-Powered Resume Builder  
+*Flask · Python · JavaScript · OpenAI API*  
+🔗 [GitHub](https://github.com/M-harib/ResumAI)
 
-🤝 Mentor — Best Lassonde, York University
+- Built an AI resume builder with real-time content suggestions and automated **PDF generation**.
+- Integrated the **OpenAI API** to deliver production-ready resume outputs.
 
-Oct 2025 – Present
+---
 
-Mentored student teams on idea validation, technical feasibility, and execution.
+### 🎮 **Crown Quest** — 2D Platformer Game  
+*Node.js · Express · HTML5 Canvas · JavaScript*  
+🔗 [GitHub](https://github.com/M-harib/CrownQuest) | 🌐 [Play Here](https://crownquest.netlify.app)
 
-Provided regular feedback and supported problem‑solving and iteration.
+- Developed a procedurally generated 2D platformer with AI-driven enemies and dynamic difficulty scaling.
+- Implemented a backend service to deliver real-time level data.
 
-Helped guide a team to win UNHack 2025.
+---
 
-🛠️ Projects
-🌱 MoodSpace — Mental Health Check‑In Platform
+## ⚙️ Technical Skills
 
-React · Spring Boot · JWT · MySQL
-🔗 GitHub | 🌐 Live Demo
-
-Built a full‑stack mental health platform in a 2‑day hackathon with mood tracking, journaling, peer support, and analytics.
-
-Engineered a secure Spring Boot backend with JWT authentication, RBAC, and RESTful APIs.
-
-✅ TaskFlow — Full‑Stack To‑Do App
-
-Flask · React · SQLite/PostgreSQL · JWT · Chart.js
-🔗 GitHub | 🌐 Live Demo
-
-Designed a secure Flask REST API with JWT auth, bcrypt hashing, and CORS.
-
-Built a polished React frontend with dark mode, advanced filtering, and analytics dashboards.
-
-🤖 ResumAI — AI‑Powered Resume Builder
-
-Flask · Python · JavaScript · OpenAI API
-🔗 GitHub
-
-Created an AI resume builder with real‑time content suggestions and PDF generation.
-
-Integrated the OpenAI API for intelligent, production‑ready resume outputs.
-
-🎮 Crown Quest — 2D Platformer Game
-
-Node.js · Express · HTML5 Canvas · JavaScript
-🔗 GitHub | 🌐 Play Here
-
-Built a procedurally generated 2D platformer with AI‑driven enemies and dynamic difficulty scaling.
-
-Designed a backend service to deliver real‑time level data.
-
-🕹️ HAZ Console Game Hub
-
-JavaScript · Node.js · HTML/CSS
-🔗 GitHub | 🌐 Live Demo
-
-Team‑based web game hub featuring Rock‑Paper‑Scissors, Tic‑Tac‑Toe, and Memory Match.
-
-Implemented secure authentication, score tracking, and responsive design.
-
-⚙️ Technical Skills
-
-Languages:
+**Languages**  
 Python, Java, C/C++, JavaScript, TypeScript, SQL, HTML/CSS, Assembly
 
-Frameworks & Libraries:
+**Frameworks & Libraries**  
 React, Next.js, Flask, Express.js, Node.js, Spring Boot, TensorFlow, NLTK, Chart.js
 
-Databases & Tools:
-MySQL, PostgreSQL, Git/GitHub, Docker, AWS, VS Code, npm, pip, Tailwind CSS, OpenAI API
+**Databases & Tools**  
+PostgreSQL, MySQL, Docker, AWS, Git/GitHub, Tailwind CSS, OpenAI API
 
-Other:
-Unit & Integration Testing, Secure Authentication, ETL Pipelines, IBM Z Mainframe
+**Other**  
+Unit & Integration Testing · Secure Authentication · ETL Pipelines · IBM Z Mainframe
 
-📫 Connect With Me
+---
 
-📧 Email: mharib@my.yorku.ca
+## 📫 Let’s Connect
+- 📧 **Email:** mharib@my.yorku.ca  
+- 💼 **LinkedIn:** https://linkedin.com/in/mharib  
+- 💻 **GitHub:** https://github.com/M-harib  
 
-💼 LinkedIn: https://linkedin.com/in/mharib
+---
 
-💻 GitHub: https://github.com/M-harib
-
-⭐️ Always open to collaboration, internships, and building impactful tech!
+⭐️ *Open to internships, research opportunities, and impactful collaborations.*
