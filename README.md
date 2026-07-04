@@ -64,7 +64,7 @@ Full-stack task manager with analytics · procedurally-generated 2D platformer w
 
 ---
 
-## 📫 Your Move, Recruiter.
+## 📫 Links
 
 🌐 [harib.me](https://www.harib.me) · 📧 [mharib@my.yorku.ca](mailto:mharib@my.yorku.ca) · 💼 [linkedin.com/in/mharib](https://linkedin.com/in/mharib)
 
