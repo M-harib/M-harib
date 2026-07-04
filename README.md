@@ -1,120 +1,78 @@
-## Hi there 👋 I'm Muhammad Harib Chaudhry
+# Hey, I'm Muhammad Harib Chaudhry 🦖
 
-<!--
-**M-harib/M-harib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · AI Developer · Co-Founder — and I ship.**
 
-Here are some ideas to get you started:
+CS @ York University with a **4.0 EECS GPA**, **incoming Software Developer Intern @ RBC**, co-founder of an AI startup, and builder of an autonomous AI agent that works while I sleep. Second year, and my code is already in production for clients like **Tim Hortons**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🚀 **Computer Science Undergraduate | AI & Software Engineer | Startup Co-Founder**
-
-I’m a **Computer Science student at York University (Toronto)** with hands-on experience building **production-grade backend systems, AI-powered applications, and full-stack products**. I enjoy turning complex problems into scalable, user-focused solutions—especially in **AI, education, wellness, and mobility tech**.
+🌐 **[harib.me](https://www.harib.me)** ← the portfolio (yes, there's a dino)
 
 ---
 
-## 🎓 Education
-**York University** — *Bachelor of Science in Computer Science*  
-📍 Toronto, ON | *Sep 2024 – Jun 2028*
+## 📌 The Highlight Reel
 
-- **CGPA:** 3.8 / 4.0  
-- **EECS CGPA:** 4.0 / 4.0  
-- **Dean’s Honour Roll**  
-- **Scholarships:** $7.5k CAD Entrance + $2.5k CAD Continuing (Academic Excellence)
-
----
-
-## 💼 Experience
-
-### 🧠 AI & Software Engineer Intern — **Pitstop**
-*Jan 2026 – Present*
-- Built scalable **REST APIs** and backend **microservices** using **Python & Node.js** to integrate vehicle telematics and third-party data into production systems.
-- Designed **ETL pipelines** to preprocess and normalize large-scale datasets for machine learning analytics.
-- Collaborated with frontend, backend, and UI/UX teams to deliver new customer-facing features.
-- Automated deployments with **Docker & CI/CD**, monitored services on **AWS**, and maintained **unit & integration tests**.
-
-### 🚀 Co-Founder & CEO — **Studia** (AI-Powered EdTech & Wellness Startup)
-*Oct 2025 – Present*
-- Co-founding an early-stage AI platform focused on adaptive studying and student wellness.
-- Architecting backend services with **FastAPI** and **PostgreSQL**.
-- Building an interactive **Next.js** frontend with **Tailwind CSS** and 3D visuals.
-- Defining product vision, technical roadmap, and MVP execution strategy.
-
-### 🤝 Mentor — **Best Lassonde, York University**
-*Oct 2025 – Present*
-- Mentored student teams on idea validation, technical feasibility, and execution.
-- Provided regular technical feedback and supported rapid iteration.
-- Helped guide a team to **win UNHack 2025**.
+- 🏦 **Incoming @ RBC** — Software Developer Intern, Technology & Operations (Fall 2026)
+- 🤖 **AI Automation Developer @ EdVisingU AI** — building AI pipelines that replaced entire manual workflows
+- 🔧 **Prev: AI & SWE Intern @ Pitstop** — led Firebase Remote Config R&D and posted the **highest ticket completion rate in my intern cohort**; shipped features used by enterprise fleets incl. Tim Hortons
+- 🚀 **Co-Founder @ Studia** — AI study & wellness platform (FastAPI · PostgreSQL · Next.js)
+- 🏆 **3rd place @ Ummah Hacks** (largest Muslim hackathon in North America) + mentored a team to a **win at UNHack 2025**
+- 🎓 **4.0/4.0 EECS GPA · Dean's Honour Roll · $12k+ CAD in scholarships**
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Things I've Built
 
-### 🌱 **MoodSpace** — Mental Health Check-In Platform  
-*React · Spring Boot · JWT · MySQL*  
-🔗 [GitHub](https://github.com/M-harib/MoodSpace) | 🌐 [Live Demo](https://mood5pace.netlify.app)
+### 🤵 [Project Jarvis](https://github.com/M-harib/project-jarvis) — a 24/7 autonomous AI agent, for $0/month
+*hermes-agent · OpenRouter · Discord · Supabase · Composio*
 
-- Built a full-stack mental health platform in a **2-day hackathon** with mood tracking, journaling, peer support, and analytics dashboards.
-- Developed a secure **Spring Boot backend** with **JWT authentication**, RBAC, and RESTful APIs.
+My own AI employee, self-hosted on a DigitalOcean server. It writes and publishes LinkedIn posts in my voice, triages my Gmail, drafts outreach and tracks follow-ups in a CRM, and runs daily scheduled jobs (content drafts, AI news briefings) — completely unattended, with persistent memory in Supabase and a custom WebGL control room.
 
----
+### 📄 [Unfiltered](https://getunfiltered.vercel.app/) — LIVE AI resume SaaS
+*Next.js · Supabase · n8n · OpenRouter*
 
-### ✅ **TaskFlow** — Full-Stack Productivity App  
-*Flask · React · PostgreSQL · JWT · Chart.js*  
-🔗 [GitHub](https://github.com/M-harib/TaskFlow) | 🌐 [Live Demo](https://taskflow-nu-two.vercel.app)
+Rewrites resumes, generates ATS scores, job-match analysis, and skill-gap reports with multi-model LLM routing. Built for students fighting brutal job markets. **Real product, real users, live right now.**
 
-- Designed a secure **Flask REST API** with JWT auth, bcrypt password hashing, and CORS.
-- Built a modern React frontend with **dark mode**, advanced filtering, and analytics dashboards.
+### 🧠 [NEXUS](https://github.com/M-harib/nexus) — AI learning RPG, built in 3 days
+*React · Node · Gemini · ElevenLabs* · [Demo](https://nexus-ctrlhackdel.vercel.app/) · [Devpost](https://devpost.com/software/nexus-knowledge-rpg)
 
----
+Turns any topic into an interactive prerequisite map, then makes you *prove* you understand it with teach-back challenges and voice-based explanations. CTRL HACK DEL '26.
 
-### 🤖 **ResumAI** — AI-Powered Resume Builder  
-*Flask · Python · JavaScript · OpenAI API*  
-🔗 [GitHub](https://github.com/M-harib/ResumAI)
+### 🕌 [Shahadah](https://github.com/M-harib/ummahhacks) — 🏆 3rd @ Ummah Hacks
+*AI · Gamification · Mobile-first* · [Demo](https://ummahhacks-five.vercel.app) · [Devpost](https://devpost.com/software/shahada-shgyr6)
 
-- Built an AI resume builder with real-time content suggestions and automated **PDF generation**.
-- Integrated the **OpenAI API** to deliver production-ready resume outputs.
+Gamified 40-day onboarding journey for new Muslims with a judgment-free AI companion. Podium finish at North America's largest Muslim hackathon.
 
----
+### 🌱 [MoodSpace](https://github.com/M-harib/MoodSpace) — mental health platform in 48 hours
+*React · Spring Boot · JWT · MySQL* · [Demo](https://mood5pace.netlify.app)
 
-### 🎮 **Crown Quest** — 2D Platformer Game  
-*Node.js · Express · HTML5 Canvas · JavaScript*  
-🔗 [GitHub](https://github.com/M-harib/CrownQuest) | 🌐 [Play Here](https://crownquest.netlify.app)
+Mood tracking, journaling, peer support, and analytics dashboards — with proper JWT auth and role-based access control, because hackathon code doesn't have to be insecure code.
 
-- Developed a procedurally generated 2D platformer with AI-driven enemies and dynamic difficulty scaling.
-- Implemented a backend service to deliver real-time level data.
+### ✅ [TaskFlow](https://github.com/M-harib/TaskFlow) · 🎮 [Crown Quest](https://crownquest.netlify.app/) · 🕹️ [HAZ Console](https://haz-game-hub.onrender.com/)
+
+Full-stack task manager with analytics · procedurally-generated 2D platformer with AI enemies · team-built web game hub. I was shipping before it was cool.
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ The Arsenal
 
-**Languages**  
-Python, Java, C/C++, JavaScript, TypeScript, SQL, HTML/CSS, Assembly
-
-**Frameworks & Libraries**  
-React, Next.js, Flask, Express.js, Node.js, Spring Boot, TensorFlow, NLTK, Chart.js
-
-**Databases & Tools**  
-PostgreSQL, MySQL, Docker, AWS, Git/GitHub, Tailwind CSS, OpenAI API
-
-**Other**  
-Unit & Integration Testing · Secure Authentication · ETL Pipelines · IBM Z Mainframe
+| | |
+|---|---|
+| **Languages** | Python · Java · C/C++ · TypeScript · JavaScript · SQL · Assembly |
+| **Frameworks** | React · Next.js · Node.js · FastAPI · Flask · Spring Boot · Express · TensorFlow |
+| **AI / LLM** | OpenAI API · Gemini API · OpenRouter · Claude · n8n · agentic workflows |
+| **Data & Infra** | PostgreSQL · MySQL · MongoDB · Supabase · Docker · AWS · CI/CD |
+| **Testing & Auth** | Unit & Integration Testing · JWT · Secure Authentication · IBM Z Mainframe |
 
 ---
 
-## 📫 Let’s Connect
-- 📧 **Email:** mharib@my.yorku.ca  
-- 💼 **LinkedIn:** https://linkedin.com/in/mharib  
-- 💻 **GitHub:** https://github.com/M-harib  
+## 📈 Stats
+
+![Harib's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-harib&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-harib&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-⭐️ *Open to internships, research opportunities, and impactful collaborations.*
+## 📫 Your Move, Recruiter.
+
+🌐 [harib.me](https://www.harib.me) · 📧 [mharib@my.yorku.ca](mailto:mharib@my.yorku.ca) · 💼 [linkedin.com/in/mharib](https://linkedin.com/in/mharib)
+
+⭐ *Open to Summer 2027 internships, collabs, and good conversations about AI systems. I respond fast — an AI agent triages my inbox.*
